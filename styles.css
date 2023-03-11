@@ -30,7 +30,7 @@ p {
     padding-right: 10px;
 }
 
-code {
+.code {
     color: black;
     font-family: 'Courier New', Courier, monospace;
     padding-left: 30px;
